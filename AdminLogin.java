@@ -55,7 +55,7 @@ public class AdminLogin extends HttpServlet
 		} catch (ClassNotFoundException e1) 
 		{
 			
-			
+			//System.out.println("dai mairu");
 		}
 		catch (ServletException e1) 
 		{
